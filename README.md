@@ -1,0 +1,2 @@
+# magicPost
+project for magicPost
